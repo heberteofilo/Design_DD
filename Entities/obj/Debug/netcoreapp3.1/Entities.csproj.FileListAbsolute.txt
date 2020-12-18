@@ -1,0 +1,9 @@
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache

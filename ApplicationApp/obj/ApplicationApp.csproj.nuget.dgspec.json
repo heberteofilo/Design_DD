@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\ApplicationApp\\ApplicationApp.csproj": {}
+  },
+  "projects": {
+    "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\ApplicationApp\\ApplicationApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\ApplicationApp\\ApplicationApp.csproj",
+        "projectName": "ApplicationApp",
+        "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\ApplicationApp\\ApplicationApp.csproj",
+        "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\ApplicationApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj"
+              },
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj"
+              },
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Heber\\.nuget\\packages\\",
+        "outputPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Heber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Domain\\Domain.csproj"
+              },
+              "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PROGRAMAÇÃO\\ARQUIVOS DOWNLOAD\\CURSO UDEMY\\BOOTCAMPDEVAVANADE\\DDD\\Design_DD\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

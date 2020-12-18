@@ -1,0 +1,16 @@
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.deps.json
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Domain.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Entities.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csprojAssemblyReference.cache
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CopyComplete
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.pdb
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\PROGRAMAÇÃO\ARQUIVOS DOWNLOAD\CURSO UDEMY\BOOTCAMPDEVAVANADE\DDD\Design_DD\ApplicationApp\bin\Debug\netcoreapp3.1\Infrastructure.pdb
