@@ -29,10 +29,15 @@ namespace Web_DDD_2020.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Nome")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(100)")
+                        .HasMaxLength(100);
 
                     b.Property<decimal>("Preco")
+                        .HasColumnName("Preco")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Quantidade")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

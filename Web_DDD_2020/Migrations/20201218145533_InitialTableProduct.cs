@@ -2,7 +2,7 @@
 
 namespace Web_DDD_2020.Migrations
 {
-    public partial class AddNameProduct : Migration
+    public partial class InitialTableProduct : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -12,8 +12,9 @@ namespace Web_DDD_2020.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Preco = table.Column<decimal>(nullable: false),
-                    Nome = table.Column<string>(nullable: true),
+                    Nome = table.Column<string>(maxLength: 100, nullable: true),
+                    Preco = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    Quantidade = table.Column<int>(nullable: false),
                     Ativo = table.Column<bool>(nullable: false)
                 },
                 constraints: table =>

@@ -22,7 +22,7 @@ namespace Entities.Notiications
         public bool ValidarPropriedadeString(string valor, string nomePropriedade)
         {
 
-            if (string.IsNullOrWhiteSpace(valor) || string.IsNullOrWhiteSpace(nomePropriedade))
+            if (string.IsNullOrWhiteSpace(valor) || string.IsNullOrWhiteSpace(nomePropriedade) || string.IsNullOrEmpty(valor))
             {
                 Notitycoes.Add(new Notifies
                 {
@@ -43,7 +43,7 @@ namespace Entities.Notiications
             {
                 Notitycoes.Add(new Notifies
                 {
-                    mensagem = "Campo Obrigatório.",
+                    mensagem = "Valor tem que ser maior do que 0.",
                     NomePropriedade = nomePropriedade
                 });
 

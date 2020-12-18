@@ -56,7 +56,7 @@ namespace Web_DDD_2020.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Preco,Nome,Ativo")] Product product)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Preco,Quantidade,Ativo")] Product product)
         {
             if (ModelState.IsValid)
             {
@@ -97,7 +97,7 @@ namespace Web_DDD_2020.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Preco,Nome,Ativo")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Preco,Quantidade,Ativo")] Product product)
         {
             if (id != product.Id)
             {

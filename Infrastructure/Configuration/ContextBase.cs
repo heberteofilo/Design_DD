@@ -8,7 +8,7 @@ namespace Infrastructure.Configuration
         public ContextBase(DbContextOptions<ContextBase> options) : base(options)
         {
             //verificar se as databases dbset existem no banco, caso não cria automaticamente.
-            Database.EnsureCreated();
+            //Database.EnsureCreated();
         }
 
         public DbSet<Product> Product { get; set; }

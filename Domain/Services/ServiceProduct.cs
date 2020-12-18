@@ -21,8 +21,9 @@ namespace Domain.Services
         {
             var validarNome = product.ValidarPropriedadeString(product.Nome, "Nome");
             var validarPreco = product.ValidarPropriedadeDecimal(product.Preco, "Preco");
+            var validarQuantidade = product.ValidarPropriedadeInt(product.Quantidade, "Quantidade");
 
-            if (validarNome && validarPreco)
+            if (validarNome && validarPreco && validarQuantidade)
             {
                 //opcional
                 product.Ativo = true;
@@ -35,8 +36,9 @@ namespace Domain.Services
         {
             var validarNome = product.ValidarPropriedadeString(product.Nome, "Nome");
             var validarPreco = product.ValidarPropriedadeDecimal(product.Preco, "Preco");
+            var validarQuantidade = product.ValidarPropriedadeInt(product.Quantidade, "Quantidade");
 
-            if (validarNome && validarPreco)
+            if (validarNome && validarPreco && validarQuantidade)
             {
                 await _IProduct.Update(product);
             }

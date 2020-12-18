@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Web_DDD_2020.Migrations
 {
     [DbContext(typeof(ContextBase))]
-    [Migration("20201218024514_AddNameProduct")]
-    partial class AddNameProduct
+    [Migration("20201218145533_InitialTableProduct")]
+    partial class InitialTableProduct
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -31,10 +31,15 @@ namespace Web_DDD_2020.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("Nome")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(100)")
+                        .HasMaxLength(100);
 
                     b.Property<decimal>("Preco")
+                        .HasColumnName("Preco")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<int>("Quantidade")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

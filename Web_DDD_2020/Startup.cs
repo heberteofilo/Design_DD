@@ -9,6 +9,7 @@ using Infrastructure.Repository.Generics;
 using Infrastructure.Repository.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -34,6 +35,8 @@ namespace Web_DDD_2020
             services.AddSingleton(typeof(IGeneric<>), typeof(RepositoryGeneric<>));
             services.AddSingleton<IProduct, RepositoryProduct>();
             services.AddSingleton<InterfaceProductApp, AppProduct>();
+            //services.AddDbContext<ContextBase>(options =>
+            //    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddDbContext<ContextBase>();
 
             services.AddSingleton<IServiceProduct, ServiceProduct>();
